@@ -10,7 +10,7 @@
 **/obj/
 **/Temp/
 Assembly-CSharp-Editor.csproj
-.vs/My project/v16/.suo
+*.suo
 .vsconfig
 Assembly-CSharp.csproj
 Assembly-CSharp.Player.csproj
