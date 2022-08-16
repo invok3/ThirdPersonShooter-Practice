@@ -6,14 +6,13 @@
 **/Library/
 **/Logs/
 **/UserSettings/
-
 **/obj/
 **/Temp/
 Assembly-CSharp-Editor.csproj
-.vs/My project/v16/.suo
 .vsconfig
 Assembly-CSharp.csproj
 Assembly-CSharp.Player.csproj
 My project.sln
+*.suo
 *.meta
 *.preset
